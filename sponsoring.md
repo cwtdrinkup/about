@@ -31,7 +31,7 @@ If you are still interested in sponsoring or have any questions, please email ka
 ## Available dates for sponsoring
 
 - 2023
-  - December 7
+  - All filled!
 - 2024
   - January 4
   - February 1
