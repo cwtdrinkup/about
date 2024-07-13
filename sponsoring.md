@@ -4,13 +4,13 @@ Sponsoring the Drinkup is a great way to get connected with the local developer 
 
 ## What the sponsor does
 
-The drinkup sponsor covers the first drink of the evening for attendees. For our usual turn out of 30-50, the tab usually runs between $300-500.
+The drinkup sponsor covers the first drink of the evening for attendees. For our usual turn out of 30-40, the tab usually runs between $250-400.
 
 - Someone from your company arrives a few minutes early to start a tab at the bar.
 - We will give you drink tickets to distribute to attendees, which ensures you can talk to everyone at the event. You are free to hand out extra tickets, or wrap things up once you approach the amount budgeted.
 - You can bring small signs or handouts to place on the tables.
 
-Plan on staying about an hour. Attendees often hang around longer, but you are free to head out whenever (or stick around! We'd love to chat with you more).
+Plan on staying at least one hour. Attendees often hang around longer, but you are free to head out whenever (or stick around! We'd love to chat with you more).
 
 ## What the sponor gets
 
@@ -20,7 +20,7 @@ Plan on staying about an hour. Attendees often hang around longer, but you are f
 
 ## How to sign up
 
-If you are still interested in sponsoring or have any questions, please email kat - at - craftsmanship.dev with the following details:
+If you are still interested in sponsoring or have any questions, please email kat - at - katze.codes with the following details:
 
 - Date to sponsor (see open dates list below)
 - Primary contact info (email and phone - in case we can't find each other)
@@ -31,8 +31,9 @@ If you are still interested in sponsoring or have any questions, please email ka
 ## Available dates for sponsoring
 
 - 2024
-  - February 1
-  - March 7
-  - ~April 4~
-  - May 2
-  - June 6
+  - September 5
+  - October 3
+  - November 7
+  - December 5
+- 2025
+  - January 2
