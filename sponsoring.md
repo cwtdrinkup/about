@@ -32,7 +32,7 @@ If you are still interested in sponsoring or have any questions, please email ka
 
 - 2024
   - September 5
-  - October 3
+  - ~October 3~
   - November 7
   - December 5
 - 2025
