@@ -4,10 +4,10 @@ Sponsoring the Drinkup is a great way to get connected with the local developer 
 
 ## What the sponsor does
 
-The drinkup sponsor covers the first drink of the evening for attendees. For our usual turn out of 30-40, the tab usually runs between $250-400.
+The drinkup sponsor covers the first drink of the evening for attendees. For our usual turn out of 30-40, the tab usually runs between $300-400 after tip (beers are ~$7.50 at the venue).
 
 - Someone from your company arrives a few minutes early to start a tab at the bar.
-- We will give you drink tickets to distribute to attendees, which ensures you can talk to everyone at the event. You are free to hand out extra tickets, or wrap things up once you approach the amount budgeted.
+- We will give you drink tokens or tickets to distribute to attendees, which ensures you can talk to everyone at the event. You are free to hand out extra tokens, or wrap things up once you approach the amount budgeted.
 - You can bring small signs or handouts to place on the tables.
 
 Plan on staying at least one hour. Attendees often hang around longer, but you are free to head out whenever (or stick around! We'd love to chat with you more).
