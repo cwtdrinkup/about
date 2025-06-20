@@ -30,10 +30,4 @@ If you are still interested in sponsoring or have any questions, please email ka
 
 ## Available dates for sponsoring
 
-- 2024
-  - ~September 5~
-  - ~October 3~
-  - ~November 7~
-  - December 5
-- 2025
-  - January 2
+Email kat - at - katze.codes for a list of currently available dates.

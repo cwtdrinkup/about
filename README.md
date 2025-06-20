@@ -1,6 +1,6 @@
 # The Cincinnati Web Tech Drinkup
 
-We meet the first Thursday of every month at [BrewDog](https://maps.app.goo.gl/r8DSWaczVhATDdJf6) in Cincinnati. The focus of the event is for industry professionals to connect and talk about technology, software development, design, digital marketing and, of course, beer! We welcome attendees from all backgrounds, whether you're a hobbyist, beginning your career or an industry veteran. See you there! 👋
+We meet the first Thursday of every month at [MOTR Pub](https://maps.app.goo.gl/kGs1ktR9wVtgtrag6) in Cincinnati. The focus of the event is for industry professionals to connect and talk about technology, software development, design, digital marketing and, of course, beer! We welcome attendees from all backgrounds, whether you're a hobbyist, beginning your career or an industry veteran. See you there! 👋
 
 - [Meetup](https://www.meetup.com/cwtdrinkup/)
 - [LinkedIn](https://www.linkedin.com/company/cwtdrinkup/)
