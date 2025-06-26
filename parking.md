@@ -6,8 +6,8 @@ MOTR's website has info on nearby parking and transportation options - https://w
 
 There are lots of metered parking in the area, but it can be hard to find an open spot on Main St. A lot of smaller streets in the area are RESIDENTIAL PERMIT ONLY, but signage is pretty clear.
 
-Street Parking Map - https://www.cincinnati-oh.gov/parking/on-street-parking/over-the-rhine-parking-map/
-Parking meter rates - https://public.tableau.com/app/profile/cincystat/viz/ParkingMeterRates/ParkingZones?publish=yes
+- Street Parking Map - https://www.cincinnati-oh.gov/parking/on-street-parking/over-the-rhine-parking-map/
+- Parking meter rates - https://public.tableau.com/app/profile/cincystat/viz/ParkingMeterRates/ParkingZones?publish=yes
 
 ## Garages and Lots
 
